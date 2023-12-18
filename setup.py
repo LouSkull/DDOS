@@ -1,0 +1,12 @@
+import os, time, sys
+os.system("cls")
+os.system("title Setup")
+os.system("pip install threading")
+os.system("pip install requests")
+os.system("cls")
+time.sleep(2)
+print("\033[91mWARNING: READ LICENSE\033[91m")
+print("\033[91mWARNING: TO START DDOS, OPEN \"ddos.py\" FILE...\033[91m")
+time.sleep(2)
+input("\033[97mPress enter to continue...\033[97m")
+sys.exit(1)
